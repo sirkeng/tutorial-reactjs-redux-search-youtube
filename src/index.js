@@ -11,7 +11,7 @@ const API_KEY = 'AIzaSyADK0mx0_MVZ2QUxQnGhLxndCqXwsz2khw';
 
 // Create a new component. This component should produce
 // some HTML
-//const App = function() => {
+// const App = function() => {
 // const App = () => {
 // 	return (
 // 		<div>
